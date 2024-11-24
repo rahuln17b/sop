@@ -1,7 +1,7 @@
 set1 = {'A','B','C','D','E'}
 set2 = {'B','D','V','X','Y','Z'}
 
-union = set1.union(set2)
+union = set1.intersection(set2)
 
 total = list(union)
 
